@@ -77,23 +77,11 @@ phishing-website-detection/
 
 1. Download or clone this repository.
 2. Open Google Chrome.
-3. Navigate to:
-
-chrome://extensions
-
+3. Navigate to:  chrome://extensions
 4. Enable Developer Mode.
 5. Click "Load unpacked".
 6. Select the project folder.
 7. Start browsing.
-
-## Future Improvements
-
-* Machine Learning based phishing detection
-* Website reputation checking APIs
-* Visual phishing page analysis
-* Better popup dashboard
-* Risk scoring system
-* Detailed threat reports
 
 ## Screenshots
 
