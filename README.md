@@ -95,6 +95,16 @@ chrome://extensions
 * Risk scoring system
 * Detailed threat reports
 
+## Screenshots
+
+### Extension Popup
+
+![Extension Popup](screenshots/popup.png)
+
+### Extension Installed
+
+![Extension Installed](screenshots/extension-page.png)
+
 ## Author
 
 Sahithya
