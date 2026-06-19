@@ -103,7 +103,7 @@ chrome://extensions
 
 ### Extension Installed
 
-![Extension Installed](screenshots/extension-page.png)
+![Extension Installed](screenshots/extension.png)
 
 ## Author
 
